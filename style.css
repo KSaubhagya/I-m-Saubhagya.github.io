@@ -1,0 +1,78 @@
+body {
+    background-image: url('bg4.jpg');
+    background-repeat: no-repeat;
+    background-position: center-top;
+    background-size: 100%;
+    background-color: rgb(2, 10, 40);
+}
+
+
+
+.h1intro {
+    color: white;
+}
+
+.h1tec {
+    text-align: center;
+    margin-top: 18%;
+    color: white;
+    font-family: 'Lucida Sans';
+    font-weight: normal;
+    font-size: 45px;
+    margin-bottom: 3%;
+}
+.pend{
+    text-align: center;
+    color: rgb(165, 171, 171);
+    font-size: large;
+
+}
+.pend2{
+    text-align: center;
+    color: rgb(232, 241, 241);
+    font-size:xx-large;
+    font-weight:bold; 
+    text-decoration:none;
+    margin-top:-2%;
+
+}
+.btn{
+    margin-left: 40%;
+    padding-bottom: 1px;
+}
+.pright{
+    text-align: center;
+    font-size: small;
+    color: rgb(123, 127, 127);
+}
+
+.pintro {
+    color: white;
+    font-size: larger;
+}
+
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+}
+.imgend {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 22%;
+}
+.navbar-nav>li {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.navbar-nav>li>a {
+    font-size: large;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+
+}
